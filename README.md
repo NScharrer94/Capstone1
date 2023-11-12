@@ -8,3 +8,11 @@ What are you working on your project so far?
  
  Which part of the project do you plan on working on next?
   My plan for this upcoming week is to first figure out how to get the welcome screen and main menu to run together, and then code the list and add options. If I have time this week I would also like to code the search, delete, and exit options, and then use the final week to clean everything up.
+
+
+As of right now I am having serious issues getting my files to transfer to git. I am following the instructions step by step and I keep recieving errors when I get a password prompt. I have tried using my password, my Personal Access Token, and the link to my project and i keep recieving 
+"remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/NScharrer94/Capstone1/'"
+
+I am going to attempt to rectify this later but I am considering uninstalling and reinstalling Ubuntu and rewriting the parts of the project I have completed, as no matter what I try I cannot seem to make this transfer work
